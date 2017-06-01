@@ -66,7 +66,7 @@ id값은 #idname 으로 선택가능하다.
 - - -
 
 ### 그 외 다른 선택자와
-1. 하위 요소 선택 (공백)
+__하위 요소 선택 (공백)__
     
     #daeweon span { color : red;}
 
@@ -77,7 +77,7 @@ id값은 #idname 으로 선택가능하다.
         <span>__선택__</span>
     </div>
 
-2. 자식 선택(>)
+__자식 선택(>)__
 
     #daeweon > span {color : red;}
 

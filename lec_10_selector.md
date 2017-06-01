@@ -72,9 +72,9 @@ __하위 요소 선택 (공백)__
 
     <div id="daeweon">
         <div>
-            <span>__선택__</span>
+            <span>선택</span>
         </div>
-        <span>__선택__</span>
+        <span>선택</span>
     </div>
 
 __자식 선택(>)__
@@ -85,7 +85,7 @@ __자식 선택(>)__
         <div>
             <span>선택안됨</span>
         </div>
-        <span>__선택__</span>
+        <span>선택</span>
     </div>
 
 위 1번과 2번의 선택자의 차이는 하위 요소를 모두 포함하는가  

@@ -22,7 +22,7 @@ inline > internal > external(외부 css 파일)
         color : blue;
     }
 
-위 두개의 span 태그 스타일 중 아래 span 태그의 속성(파란색)이 적용된다.
+위 두개의 span 태그 스타일 중 아래 span 태그의 속성(파란색)이 적용된다.  
 즉, 같은 노드를 칭하는 태그는 가장 하단의 속성의 영향을 받는다.
 
 - - - 
@@ -51,7 +51,7 @@ inline > internal > external(외부 css 파일)
         color : blue;
     }
 
-위의 경우는 id값이 class값보다 우선순위를 가지기 때문에 red 속성이 적용된다.
+위의 경우는 id값이 class값보다 우선순위를 가지기 때문에 red 속성이 적용된다.  
 참고로, id > class > element.
 
 - - -
